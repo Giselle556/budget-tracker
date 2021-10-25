@@ -1,5 +1,5 @@
 # Budget-Tracker
-
+To see this application in action fork over the code into your repo run "npm i" and then "npm start". When those two requests are done you will be able to see the app in action on http://localhost:3000/
 # Description
 
 App that allows you to monito your funds, with this app you will be able to add and subtract funds; with a visual aid of a graph to demonstrate the movement of your funds.
