@@ -2,7 +2,7 @@
 
 # Description
 
-App that allows you to monito your funds, with this app you will be able to add and subtract funds; with a visual aid of a graph to demonstrate the movement of your finds.
+App that allows you to monito your funds, with this app you will be able to add and subtract funds; with a visual aid of a graph to demonstrate the movement of your funds.
 
 # Technology
 * JavaScript
